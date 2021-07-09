@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: arkaplan
+    uniqueID: 2404335253
+    locked: 0
+  - name: parallax
+    uniqueID: 2812643451
+    locked: 0
+  - name: "\xE7evre arkas\u0131"
+    uniqueID: 3157557469
+    locked: 0
+  - name: "\xE7evre"
+    uniqueID: 2657557437
+    locked: 0
+  - name: "\xF6n plan"
+    uniqueID: 303892457
+    locked: 0
