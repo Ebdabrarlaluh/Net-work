@@ -2,20 +2,20 @@
  
 Magara-Jam 3 için hazırladığımız "Sistem Hatası" temalı Net-Work oyununun Unity içeriği
 
-Game Design
+Game Design:
 Abdullah Ebrar Şahintürk
 
-Level Design
+Level Design:
 Abdullah Ebrar Şahintürk
 Alibey Özbay
 Serbest Basut
 
-Sound-Music
+Sound-Music:
 Mahir Can Gökduman
 
-UI Design
+UI Design:
 Hüsnü Baran
 
-Art & Consept & Story
+Art & Consept & Story:
 Abdullah Ebrar Şahintürk
 Mahir Can Gökduman
