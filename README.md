@@ -16,6 +16,6 @@ Mahir Can Gökduman
 UI Design:
 Hüsnü Baran
 
-Art & Consept & Story:
+Art & Concept & Story:
 Abdullah Ebrar Şahintürk,
 Mahir Can Gökduman
