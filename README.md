@@ -6,8 +6,8 @@ Game Design:
 Abdullah Ebrar Şahintürk
 
 Level Design:
-Abdullah Ebrar Şahintürk
-Alibey Özbay
+Abdullah Ebrar Şahintürk,
+Alibey Özbay,
 Serbest Basut
 
 Sound-Music:
@@ -17,5 +17,5 @@ UI Design:
 Hüsnü Baran
 
 Art & Consept & Story:
-Abdullah Ebrar Şahintürk
+Abdullah Ebrar Şahintürk,
 Mahir Can Gökduman
