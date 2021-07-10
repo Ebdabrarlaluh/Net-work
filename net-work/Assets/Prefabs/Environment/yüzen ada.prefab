@@ -252,6 +252,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3897650443084044696}
+  - component: {fileID: 3920265067551609158}
   m_Layer: 0
   m_Name: "y\xFCzen ada"
   m_TagString: Untagged
@@ -283,6 +284,41 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!68 &3920265067551609158
+EdgeCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6100144417488497421}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: 3.294022, y: 1.5679007}
+  - {x: 3.3850217, y: 1.2338612}
+  - {x: 3.9969482, y: 0.9296491}
+  - {x: 7.170046, y: 0.96271014}
+  - {x: 7.6195645, y: 1.1828086}
+  - {x: 7.785218, y: 1.6257641}
+  - {x: 7.5906277, y: 2.0388467}
+  - {x: 6.940282, y: 2.223236}
+  - {x: 6.193184, y: 2.30519}
+  - {x: 5.4637194, y: 2.1614957}
+  - {x: 5.1199145, y: 2.2565577}
+  - {x: 4.924888, y: 2.2042253}
+  - {x: 4.6100664, y: 2.305184}
+  - {x: 4.115519, y: 2.2496367}
+  - {x: 3.609622, y: 2.1118002}
+  - {x: 3.377171, y: 1.9347465}
+  - {x: 3.3034554, y: 1.6113355}
+  - {x: 3.2989326, y: 1.5706577}
+  - {x: 3.3066688, y: 1.566162}
 --- !u!1 &6473268487435493430
 GameObject:
   m_ObjectHideFlags: 0
