@@ -1,6 +1,6 @@
 # Net-work
  
-Magara-Jam 3 için hazırladığımız "Sistem Hatası" temalı Net-Work oyununun Unity içeriği
+Magara-Jam 3 için hazırladığımız "Sistem Hatası" temalı Net-Work oyununun bitmemiş Unity içeriği
 
 Game Design:
 Abdullah Ebrar Şahintürk
